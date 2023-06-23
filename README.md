@@ -1,5 +1,7 @@
 # inf450_2023-1
 
+[Rascunho no Excalidraw](https://excalidraw.com/#json=dFCWz4C9jE2Yp1CRKKZjU,zRuf5pnncFxovdu1A5r_fg)
+
 ## Memória Cache (leitura e escrita)
 
 ### Parâmetros
