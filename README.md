@@ -1,6 +1,6 @@
 # inf450_2023-1
 
-[Rascunho no Excalidraw](https://excalidraw.com/#json=dFCWz4C9jE2Yp1CRKKZjU,zRuf5pnncFxovdu1A5r_fg)
+[Rascunho no Excalidraw](https://excalidraw.com/#json=15KXt5mk6sa4Shr7iu0Vb,483hu3vDrCqqQeKGN7ufXQ)
 
 ## Memória Cache (leitura e escrita)
 
