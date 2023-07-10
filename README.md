@@ -1,5 +1,13 @@
 # inf450_2023-1
 
+## Grupo
+
+- Natascha Palhares (105460)
+- João Pedro Sena (105463)
+- André Feijó (105466)
+- Rafael Zardo (105468)
+- Pedro Fiorio (105475)
+
 [Rascunho no Excalidraw](https://excalidraw.com/#json=15KXt5mk6sa4Shr7iu0Vb,483hu3vDrCqqQeKGN7ufXQ)
 
 ## Memória Cache (leitura e escrita)
